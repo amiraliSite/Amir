@@ -130,8 +130,8 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-[![Email](https://img.shields.io/badge/Email-Send_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View_Work-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourwebsite.com)
+[![Email](https://img.shields.io/badge/Email-Send_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.amirali1278mmm.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View_Work-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://amirresume.netlify.app)
 
 ---
 
